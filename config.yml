@@ -46,9 +46,7 @@ jobs:
       # https://nose.readthedocs.io
       - run:
           name: run tests
-          command: |
-            . venv/bin/activate
-            python test_sum.py
+          command: python3 test_sum.py
 
       - store_artifacts:
           path: test-reports
