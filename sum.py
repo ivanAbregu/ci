@@ -9,3 +9,7 @@ def custom_resrt(x, y):
 # a comment
 def custom_mult(x, y):
     return x * y
+
+# a comment
+def custom_increase(x):
+    return x + 1
