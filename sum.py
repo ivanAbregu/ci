@@ -19,6 +19,7 @@ def custom_increase(x):
 # a comment
 # a comment
 # a comment
+# a comment
 
 def custom_decrease(x):
     return x - 1
