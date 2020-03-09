@@ -14,13 +14,4 @@ def custom_mult(x, y):
 def custom_increase(x):
     return x + 1
 
-
-# a comment
-# a comment
-# a comment
-# a comment
-# a comment
-# a comment2
-
-def custom_decrease(x):
-    return x - 1
+x = 4
