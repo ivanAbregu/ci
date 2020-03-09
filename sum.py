@@ -13,5 +13,4 @@ def custom_mult(x, y):
 # a comment
 def custom_increase(x):
     return x + 1
-
-x = 4
+zz = 4
